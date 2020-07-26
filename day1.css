@@ -1,0 +1,17 @@
+#main
+{
+    size: 2vw;
+    text-align: left;
+    background-color: rgb(183, 183, 207);
+    color: rgb(11, 41, 70);
+}
+#listdemo
+{
+    text-align: left;
+    color: rgb(208, 240, 240);
+}
+#in
+{
+    background-color: #ffb7b9;
+    text-align: left;
+}
